@@ -1,4 +1,4 @@
-# B2B Industrial Fleet Maintenance & DOT Compliance Tracker (No Subscriptions)
+# Industrial Fleet Maintenance & DOT Compliance Tracker (No Subscriptions)
 
 Corporate Operations Back-Office Dashboard & Standalone Management Engine
 
