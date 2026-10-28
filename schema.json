@@ -1,0 +1,14 @@
+{
+  "asset_class": "B2B Industrial Fleet Maintenance & DOT Compliance Tracker",
+  "build_parameters": {
+    "macro_free": true,
+    "responsive_scale_target": "85%",
+    "canvas_base": "Matte-Black Theme"
+  },
+  "operational_matrices": [
+    "vehicle_vin_inspection_logs",
+    "mileage_utilization_tracking_matrices",
+    "fmcsa_regulatory_safety_codes",
+    "next_scheduled_service_thresholds"
+  ]
+}
